@@ -1,0 +1,60 @@
+Tasks for Day 1
+
+1) Clone the GitHub repo and run the app locally (if available).
+Done.
+
+2) List the APIs used and create a postman collection 
+Created all apis entry, but as stuck on login functionality so could not add the body in the request.
+
+3) Explore the EcoVillage Adventures app on Play Store/AppStore
+Done.
+
+4) List out:
+Key screens in the app
+HomePage, Bookings, Profile, GroundCard, GroundDetail, Select Date and Time Page, Booking Summary Page, Select Payment Method Page, Go in razor pay payment page. 
+
+Major widgets/components to reuse or recreate according to backend
+Having doubts. 
+
+Static Images/Branding/Colors/URLS/keys that can be modularized for easy cloning
+Having doubts. 
+
+Study the code, document architecture and modularization plan:
+Studied the code structure
+Project follows feature-based modular structure
+Each major feature (auth, booking, dashboard, etc.) has its own folder
+Clean separation between core/, app/, and features/
+Easy to scale and maintain 
+
+List out technical questions and unclear areas for sync 
+Login and Register is not Working ?
+
+
+
+
+Reset the code jo raat me disscussed kiye the.
+1) pubs.yaml
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_gen_runner: ^5.8.0 #assets
+  build_runner: ^2.4.13 #koi bhi sabke ke liye
+  auto_route_generator: ^9.0.0
+  injectable_generator: ^2.6.2
+  retrofit_generator: ^9.1.5
+  json_serializable: ^6.9.0
+  freezed: ^2.5.7 
+
+2) login_form_cubit.dart
+    // if (!isValid) {
+    //   debugPrint('2');
+    // } else 
+    
+    if (true) {
+      debugPrint('3');
+
+3) login_page.dart
+	 // state.status == FormzSubmissionStatus.inProgress
+        //     ? null // Button is disabled
+       //     :
+       () {
+         debugPrint('Login Button Clicked.'); 

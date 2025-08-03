@@ -1,0 +1,36 @@
+Your Tasks for Day 1
+Clone the GitHub repo and run the app locally (if available). -> Completed.
+List the APIs used and create a postman collection -> Normal Way to Completed.
+Explore the EcoVillage Adventures app on Play Store/AppStore -> Completed.
+
+
+
+What data passed in delete request -> http://13.201.104.130:5001/admin/requestDelete/String or int.
+
+
+
+Sign Up Page Flow 
+1) name 2) email 3) phone no 4) password, then go in the -> first show this -> 1) An error occured then after it is showing -> User already exists with this email or mobile number.
+
+2) OTP Page -> Enter 4 digit OTP -> Then Redirect in Login Page.
+
+3) Login Page -> Enter Mobile No and Password -> Then Login Successful Show HomePage
+
+
+
+Small Issues in App
+1) In TextFiled The Color should selectionHandleColor : The default Flutter Color.
+          textSelectionTheme: const TextSelectionThemeData(
+            selectionHandleColor: Colors.green, 
+          )
+
+2) Second Issue is in LoginPage In Email Validator is not Working, error is not show.
+
+3) When I SignUpPage is not Working in DebugMode Why But it is working in PlayStore App ?
+SignUpPage -> FocusScope.of(context).unfocus(); When we clicked in the button then the keyborad is not disabled, but in LoginPage is Working.
+
+4) Fourth Issue is in ForgetPasswordPage In Email Validator is not Working, error is not show.
+
+
+
+
