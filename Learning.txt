@@ -1,3 +1,65 @@
 Auto generate file to use this command:-
 flutter pub run build_runner build --delete-conflicting-outputs -> --delete-conflicting-outputs <- This is extra means to avoid the conflicts in our project.
-  
+
+21-Day Schedule.
+1) Make To Do List <- In Night.
+
+2) Wake Up Early <- 4 to 5 Baje uthna 5 baje best hai, kyuki 4 baje uthna possible nahi 4 se 5 din takka follow karunga bus uske baad fir se waise best 5 baje sahi hai ?
+
+3) Daily 30 Min Exercise ?
+Shuruat 21 din takka 30 min start kar sakte hai, fir uske baad dheere dheere bada sakte hai.
+
+4) Learn New Skill
+1) English
+2) DSA
+3) Dart Programming Basic and go in depth
+4) Maths Basic Concept Video
+5) Flutter Framework in basic start goes in depth.
+
+5) NO FAP <- Focused only work do not thing any bad works like p. CONTROL Your Self.
+
+6) Limit Your Social Media <- 30 Minutes only but maito use karta hu ?
+
+7) Say no to junk food <- 21 din no junk food uske baad bhi nahi khana hai.
+
+8) Change Your Surrounding <- Ache Jagah bhaithna or compnay ke goals ko samajna !
+
+21-Day Schedule
+
+Daily routine
+
+Make a to-do list (night)
+Plan tomorrow before bed — 3–5 clear tasks (priority first).
+
+Wake up early
+Aim for 5:00 AM. If 4:00 AM is too hard, start with 5:00 AM for the first 21 days.
+
+Daily exercise — 30 minutes
+Start with 30 minutes each day for 21 days. Increase duration gradually afterwards.
+
+Learning & growth
+4. Learn a new skill (daily focus)
+Rotate or combine:
+
+English (reading/speaking practice)
+
+Dart basics → then go deeper
+
+Basic math concepts (watch short videos)
+
+Flutter framework (start with fundamentals, then progress)
+
+Habits & discipline
+5. NoFap / Self control
+Stay focused on work and personal goals; avoid distracting or unhealthy habits.
+
+Limit social media — 30 minutes max
+Set a daily limit (30 min). Use timers or app limits to enforce it.
+
+Say no to junk food
+Avoid junk food for the 21 days — aim to continue longer if possible.
+
+Improve your environment
+Sit in a clean, quiet place that helps you focus. Surround yourself with people/things that support your goals.
+
+
